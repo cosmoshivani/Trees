@@ -36,6 +36,11 @@ blockquote{
 
 }
 
+blockquote:hover {
+    opacity:0.8;
+
+}
+
     #img-box{  
     display:flex;
     flex-direction: row;
@@ -45,10 +50,6 @@ blockquote{
     width: 100%;
 }
 
-#imag-box:hover{
-    opacity:0.5;
-
-}
 
 #footer-text{  
     text-align:center;
