@@ -45,6 +45,11 @@ blockquote{
     width: 100%;
 }
 
+#imag-box:hover{
+    opacity:50%;
+
+}
+
 #footer-text{  
     text-align:center;
     font-size:25px;
